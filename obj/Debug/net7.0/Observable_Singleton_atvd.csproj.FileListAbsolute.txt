@@ -1,0 +1,14 @@
+C:\Users\natan\OneDrive\Documentos\Faculdade\7° Período\Tec Avancadas de Soft\Observable_Singleton_atvd\bin\Debug\net7.0\Observable_Singleton_atvd.exe
+C:\Users\natan\OneDrive\Documentos\Faculdade\7° Período\Tec Avancadas de Soft\Observable_Singleton_atvd\bin\Debug\net7.0\Observable_Singleton_atvd.deps.json
+C:\Users\natan\OneDrive\Documentos\Faculdade\7° Período\Tec Avancadas de Soft\Observable_Singleton_atvd\bin\Debug\net7.0\Observable_Singleton_atvd.runtimeconfig.json
+C:\Users\natan\OneDrive\Documentos\Faculdade\7° Período\Tec Avancadas de Soft\Observable_Singleton_atvd\bin\Debug\net7.0\Observable_Singleton_atvd.dll
+C:\Users\natan\OneDrive\Documentos\Faculdade\7° Período\Tec Avancadas de Soft\Observable_Singleton_atvd\bin\Debug\net7.0\Observable_Singleton_atvd.pdb
+C:\Users\natan\OneDrive\Documentos\Faculdade\7° Período\Tec Avancadas de Soft\Observable_Singleton_atvd\obj\Debug\net7.0\Observable_Singleton_atvd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natan\OneDrive\Documentos\Faculdade\7° Período\Tec Avancadas de Soft\Observable_Singleton_atvd\obj\Debug\net7.0\Observable_Singleton_atvd.AssemblyInfoInputs.cache
+C:\Users\natan\OneDrive\Documentos\Faculdade\7° Período\Tec Avancadas de Soft\Observable_Singleton_atvd\obj\Debug\net7.0\Observable_Singleton_atvd.AssemblyInfo.cs
+C:\Users\natan\OneDrive\Documentos\Faculdade\7° Período\Tec Avancadas de Soft\Observable_Singleton_atvd\obj\Debug\net7.0\Observable_Singleton_atvd.csproj.CoreCompileInputs.cache
+C:\Users\natan\OneDrive\Documentos\Faculdade\7° Período\Tec Avancadas de Soft\Observable_Singleton_atvd\obj\Debug\net7.0\Observable_Singleton_atvd.dll
+C:\Users\natan\OneDrive\Documentos\Faculdade\7° Período\Tec Avancadas de Soft\Observable_Singleton_atvd\obj\Debug\net7.0\refint\Observable_Singleton_atvd.dll
+C:\Users\natan\OneDrive\Documentos\Faculdade\7° Período\Tec Avancadas de Soft\Observable_Singleton_atvd\obj\Debug\net7.0\Observable_Singleton_atvd.pdb
+C:\Users\natan\OneDrive\Documentos\Faculdade\7° Período\Tec Avancadas de Soft\Observable_Singleton_atvd\obj\Debug\net7.0\Observable_Singleton_atvd.genruntimeconfig.cache
+C:\Users\natan\OneDrive\Documentos\Faculdade\7° Período\Tec Avancadas de Soft\Observable_Singleton_atvd\obj\Debug\net7.0\ref\Observable_Singleton_atvd.dll
